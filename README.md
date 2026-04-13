@@ -215,7 +215,7 @@ Strong foundation in derivatives pricing, stochastic calculus, and market risk. 
 | **Hardware Enthusiast** | **Unix & Homelab** | **Gaming** |
 | :---: | :---: | :---: |
 | <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJob3lnNGlzOHBxMHg2a3k4NWNzMHVxYzZwbGRwcjlldnh3d3JteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0CLTXUSWyrZR9Ktq/giphy.gif" width="200" /> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN2M2FxdDVveG9oZ3ExcGg1bXo2dHN1bXpkYmlmNW1jbndhbnp4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="100" /> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FodGhqZmN4d3FoeGk5dWcyeXV5Z3MyZnF0MXI0NmZyeHB3dzFveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wL4ngCtSdYz8n8QZ82/giphy.gif" width="200" /> |
-| **Lian Li O11 Vision**<br>Ryzen 7 7700 • RTX 5070 • 32GB<br> | **Self-Hosting**<br>Ubuntu Server (Jellyfin, Ollama, n8n)<br>| **GC Rocket League Player (Top >1%)** <br>Casual Valorant and Overwatch Player<br>|
+| **Lian Li O11 Vision**<br>Ryzen 7 7700 • RTX 5070 • 32GB<br> | **Self-Hosting**<br>Ubuntu Server (Jellyfin, Ollama, n8n)<br>| **Rocket League Grand Champ Player (Top <1%)** <br>Casual Valorant and Overwatch Player<br>|
 
 </div>
 
