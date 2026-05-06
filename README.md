@@ -214,7 +214,7 @@ Strong foundation in derivatives pricing, stochastic calculus, and market risk. 
 
 | **Hardware Enthusiast** | **Unix & Homelab** | **Gaming** |
 | :---: | :---: | :---: |
-| <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJob3lnNGlzOHBxMHg2a3k4NWNzMHVxYzZwbGRwcjlldnh3d3JteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0CLTXUSWyrZR9Ktq/giphy.gif" width="200" /> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN2M2FxdDVveG9oZ3ExcGg1bXo2dHN1bXpkYmlmNW1jbndhbnp4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="100" /> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FodGhqZmN4d3FoeGk5dWcyeXV5Z3MyZnF0MXI0NmZyeHB3dzFveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wL4ngCtSdYz8n8QZ82/giphy.gif" width="200" /> |
+| <a href="https://drive.google.com/file/d/1LljYGcQTkLQ_SyULUbho-ooOIQ0Auqmb/view?usp=drive_link"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJob3lnNGlzOHBxMHg2a3k4NWNzMHVxYzZwbGRwcjlldnh3d3JteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0CLTXUSWyrZR9Ktq/giphy.gif" width="200" /></a> | <a href="https://www.ubuntu-fr.org/"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHN2M2FxdDVveG9oZ3ExcGg1bXo2dHN1bXpkYmlmNW1jbndhbnp4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="100" /></a> | <a href="https://rocketleague.tracker.network/rocket-league/profile/epic/ALTER.%E9%AC%BC/overview"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FodGhqZmN4d3FoeGk5dWcyeXV5Z3MyZnF0MXI0NmZyeHB3dzFveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wL4ngCtSdYz8n8QZ82/giphy.gif" width="200" /></a> |
 | **Lian Li O11 Vision**<br>Ryzen 7 7700 • RTX 5070 • 32GB<br> | **Self-Hosting**<br>Ubuntu Server (Jellyfin, Ollama, n8n)<br>| **Rocket League Grand Champ Player (Top <1%)** <br>Casual Valorant and Overwatch Player<br>|
 
 </div>
@@ -223,7 +223,6 @@ Strong foundation in derivatives pricing, stochastic calculus, and market risk. 
   <img src="https://img.shields.io/badge/Rocket_League-000000?style=flat-square&logo=rocket-league&logoColor=white" />
   <img src="https://img.shields.io/badge/Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white" />
   <img src="https://img.shields.io/badge/Overwatch-ED6516?style=flat-square&logo=overwatch&logoColor=white" />
-
   
   <br/>
 
